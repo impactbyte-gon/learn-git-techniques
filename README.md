@@ -2,4 +2,4 @@
 
 Learn more intermediate Git techniques in Impact Byte.
 
-![Gon](assets/gon.png)
+![Agumon](assets/agumon.png)
