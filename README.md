@@ -9,3 +9,7 @@ Learn more Git techniques.
 - Git Ignore
 - Git Checkout
 - Git Branch
+- Git Merge
+- Git Rebase
+- Git Reset
+- Git Revert
