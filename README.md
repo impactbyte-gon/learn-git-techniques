@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">Learn Git Techniques</h1>
+<div style="text-align: center;">
+  <h1>Learn Git Techniques</h1>
+</div>
 
 Learn more intermediate Git techniques in Impact Byte.
 
